@@ -1,0 +1,92 @@
+body{
+	margin: 0;
+	background: #d8d8d8;
+	font-family: sans-serif;
+}
+
+.wrapper{
+	width: 960px;
+	margin: 50px auto;
+}
+
+.single_dice{
+	float: left;
+	width: 180px;
+	height: 180px;
+	background: white;
+	border: 1px solid black;
+	position: relative;
+}
+
+.single_dot{
+	height: 30px;
+	width: 30px;
+	background-color: black;
+	border-radius: 50%;
+	position: absolute;
+	transform: scale(1,1);
+	opacity: 1;
+	transition: all 0.4s ease-in-out;
+}
+
+.top_left{
+	left: 20px;
+	top: 20px;
+}
+
+.top_right{
+	right: 20px;
+	top: 20px;
+}
+
+.bottom_left{
+	left: 20px;
+	bottom: 20px;
+}
+
+.bottom_right{
+	right: 20px;
+	bottom: 20px;
+}
+
+.center{
+	top:0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+}
+
+.top_center{
+	left: 0;
+	right: 0;
+	top: 20px;
+	margin: auto;
+}
+
+.bottom_center{
+	left: 0;
+	right: 0;
+	bottom: 20px;
+	margin: auto;
+}
+
+.dice_number{
+	width: 100%;
+	line-height: 180px;
+	text-align: center;
+	margin: 0;
+	opacity: 0;
+	transform: scale(0,0);
+	transition: all 0.4s ease-in-out;
+}
+
+.single_dice:hover .single_dot{
+	/*opacity: 1;*/
+	transform: scale(0,0);
+}
+
+.single_dice:hover .dice_number{
+	opacity: 1;
+	transform: scale(1,1);
+}
