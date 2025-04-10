@@ -136,6 +136,7 @@ nav {
 
 .nav-menu a:hover {
     color: var(--primary-color);
+    text-decoration: underline;
 }
 
 .menu-icon {
@@ -187,18 +188,18 @@ nav {
 
 .yellow-box {
     position: absolute;
-    width: 120px;
-    height: 120px;
+    width: 500px;
+    height: 100px;
     background-color: var(--accent-color);
     z-index: 1;
     bottom: 0;
-    left: 0;
+    left: 15px;
 }
 
 .dots-pattern {
     position: absolute;
     width: 150px;
-    height: 150px;
+    height: 275px;
     top: 0;
     right: 0;
     background-image: radial-gradient(circle, var(--text-color) 2px, transparent 2px);
