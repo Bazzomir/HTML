@@ -1,5 +1,4 @@
-# 
-Dice Faces with Hover Text (HTML & CSS)
+#  Dice Faces with Hover Text (HTML & CSS)
 ###
 This exercise showcases a simple interactive dice component built with HTML and CSS. All six faces of a standard die (1–6) are visually represented using dots (pips).
 
