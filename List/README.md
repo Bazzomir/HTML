@@ -7,7 +7,7 @@ Features:
  - External trailer link (opens in a new tab).
  - Stylish and readable list using custom CSS with hover effects and spacing.
 
-📁 Technologies Used:
+Technologies Used:
  - HTML5
  - CSS3 (without Flexbox or Grid)
 
