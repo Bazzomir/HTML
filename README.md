@@ -4,8 +4,8 @@ This repository contains a collection of short, beginner-friendly HTML exercises
 All projects were originally created in 2021, with occasional updates made in 2025. The work is entirely self-authored.
 
 📂 Project Descriptions
-1.  Cube: ###
-This exercise showcases a simple interactive dice component built with HTML and CSS. All six faces of a standard die (1–6) are visually represented using dots (pips).
+1.  Cube: 
+### This exercise showcases a simple interactive dice component built with HTML and CSS. All six faces of a standard die (1–6) are visually represented using dots (pips).
 
 2. 🎬 List:
 This mini-project demonstrates how to structure and style a movie information page using semantic HTML and custom CSS. The layout showcases basic movie details such as title, year, genres, plot, poster, and main actors.
