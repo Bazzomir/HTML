@@ -14,7 +14,7 @@ This mini-project demonstrates how to structure and style a movie information pa
 This exercise demonstrates how to build a basic user input form using only standard HTML elements — without any CSS or JavaScript.
 ###
 4. 📊 Table
-This exercise demonstrates how to create a complex table layout using only HTML <table>, <tr>, and <th> elements, without the use of CSS layout tools like Flexbox or Grid.
+This exercise demonstrates how to create a complex table layout using only HTML ```<table>```, ```<tr>```, and ```<th>``` elements, without the use of CSS layout tools like Flexbox or Grid.
 ###
 5. 📐 FlexBox
 This exercise demonstrates a basic web layout using HTML5 semantic elements and CSS Flexbox. The goal is to understand and practice using Flexbox to create a responsive and well-structured layout.
