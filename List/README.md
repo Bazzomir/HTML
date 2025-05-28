@@ -1,4 +1,4 @@
-# Movie Info List (HTML & CSS)
+# Movie Info List
 This mini-project demonstrates how to structure and style a movie information page using semantic HTML and custom CSS. The layout showcases basic movie details such as title, year, genres, plot, poster, and main actors.
 
 Features:
