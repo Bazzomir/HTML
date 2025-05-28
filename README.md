@@ -27,3 +27,9 @@ All projects were originally created in **2021**, with occasional updates made i
 #### 6. 🧱 Grid  
 > This exercise demonstrates a basic web layout using HTML5 semantic elements and CSS Grid. The goal is to understand and practice using Grid to create a responsive and well-structured layout.
 
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
