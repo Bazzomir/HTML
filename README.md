@@ -4,7 +4,7 @@ This repository contains a collection of short, beginner-friendly HTML exercises
 All projects were originally created in 2021, with occasional updates made in 2025. The work is entirely self-authored.
 
 📂 Project Descriptions
-1.  Cube: 
+1. 🧊 Cube: 
  This exercise showcases a simple interactive dice component built with HTML and CSS. All six faces of a standard die (1–6) are visually represented using dots (pips).
 
 2. 🎬 List:
